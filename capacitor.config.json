@@ -1,0 +1,7 @@
+{
+  "appId": "com.mycalculator.app",
+  "appName": "Calculator",
+  "webDir": "www",
+  "backgroundColor": "#0f1115",
+  "server": { "androidScheme": "https" }
+}
